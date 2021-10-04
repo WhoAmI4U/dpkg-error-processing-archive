@@ -1,0 +1,2 @@
+# dpkg-error-processing-archive
+dpkg: error processing archive /data/data/com.termux/cache/apt/archives/lemon_2.1-2_all.deb (--unpack):  trying to overwrite '/data/data/com.termux/files/usr/bin/java', which is also in package openjdk-17 17.0-15 Errors were encountered while processing:  /data/data/com.termux/cache/apt/archives/lemon_2.1-2_all.deb E: Sub-process /data/data/com.termux/files/usr/bin/dpkg returned an error code (1)
